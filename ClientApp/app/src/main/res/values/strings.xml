@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClientApp</string>
+    <string name="title">Kirills Savčuks\nDatoru tikli\nReferata darbs\n--- Klients ---</string>
+    <string name="rtu_logo_description">RTU logo</string>
+    <string name="server_ip_address_hint">Servera IP addrese</string>
+    <string name="server_ip_port_hint">Servera IP ports</string>
+    <string name="server_connect">Savienoties</string>
+    <string name="server_clear">Notīrīt</string>
+</resources>

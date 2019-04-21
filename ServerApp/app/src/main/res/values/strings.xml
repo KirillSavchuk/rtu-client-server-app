@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServerApp</string>
+    <string name="title">Kirills Savčuks\nDatoru tikli\nReferata darbs\n--- Serveris ---</string>
+    <string name="rtu_logo_description">RTU logo</string>
+</resources>
